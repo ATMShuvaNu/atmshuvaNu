@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Typescript, Django
+- 👯 I’m looking to collaborate on web freameweork
+- 🤔 I’m looking for help with web dev
+- 💬 Ask me about web defv
+- 📫 How to reach me? mention me
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i dunnoi 😉😉
 <!--
 **ATMShuvaNu/atmshuvaNu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
